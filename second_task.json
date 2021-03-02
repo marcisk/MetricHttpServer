@@ -1,0 +1,74 @@
+[
+  {
+    "SensorId": 22,
+    "SensorName": "Classroom",
+    "MetricName": "Temperature",
+    "UnitName": "°C",
+    "MinValue": 22.35,
+    "MaxValue": 23.8
+  },
+  {
+    "SensorId": 22,
+    "SensorName": "Classroom",
+    "MetricName": "Humidity",
+    "UnitName": "%",
+    "MinValue": 44,
+    "MaxValue": 55
+  },
+  {
+    "SensorId": 34,
+    "SensorName": "Hall",
+    "MetricName": "Temperature",
+    "UnitName": "°C",
+    "MinValue": 23.25,
+    "MaxValue": 25.3
+  },
+  {
+    "SensorId": 34,
+    "SensorName": "Hall",
+    "MetricName": "Humidity",
+    "UnitName": "%",
+    "MinValue": 40,
+    "MaxValue": 54
+  },
+  {
+    "SensorId": 58,
+    "SensorName": "Gate",
+    "MetricName": "Temperature",
+    "UnitName": "°C",
+    "MinValue": 11.9,
+    "MaxValue": 20.8
+  },
+  {
+    "SensorId": 97,
+    "SensorName": "Meeting room",
+    "MetricName": "Temperature",
+    "UnitName": "°C",
+    "MinValue": 23.7,
+    "MaxValue": 25.55
+  },
+  {
+    "SensorId": 97,
+    "SensorName": "Meeting room",
+    "MetricName": "Humidity",
+    "UnitName": "%",
+    "MinValue": 40,
+    "MaxValue": 49
+  },
+  {
+    "SensorId": 97,
+    "SensorName": "Meeting room",
+    "MetricName": "CO₂",
+    "UnitName": "ppm",
+    "MinValue": 507,
+    "MaxValue": 1038
+  },
+  {
+    "SensorId": 97,
+    "SensorName": "Meeting room",
+    "MetricName": "Atmospheric Pressure",
+    "UnitName": "Pa",
+    "MinValue": 101210,
+    "MaxValue": 101680
+  }
+]

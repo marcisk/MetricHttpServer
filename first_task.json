@@ -1,0 +1,92 @@
+[
+  {
+    "SensorId": 22,
+    "SerialCode": "1048836",
+    "Name": "Classroom",
+    "LastMeasureDate": "2019-09-09 23:53:27",
+    "LastMeasureValue": 23.45,
+    "MetricName": "Temperature",
+    "UnitName": "°C"
+  },
+  {
+    "SensorId": 22,
+    "SerialCode": "1048836",
+    "Name": "Classroom",
+    "LastMeasureDate": "2019-09-09 23:53:27",
+    "LastMeasureValue": 57,
+    "MetricName": "Humidity",
+    "UnitName": "%"
+  },
+  {
+    "SensorId": 34,
+    "SerialCode": "1048827",
+    "Name": "Hall",
+    "LastMeasureDate": "2019-09-09 23:56:26",
+    "LastMeasureValue": 23.85,
+    "MetricName": "Temperature",
+    "UnitName": "°C"
+  },
+  {
+    "SensorId": 34,
+    "SerialCode": "1048827",
+    "Name": "Hall",
+    "LastMeasureDate": "2019-09-09 23:56:26",
+    "LastMeasureValue": 49,
+    "MetricName": "Humidity",
+    "UnitName": "%"
+  },
+  {
+    "SensorId": 58,
+    "SerialCode": "2099173",
+    "Name": "Gate",
+    "LastMeasureDate": "2019-09-09 23:59:22",
+    "LastMeasureValue": 18.8,
+    "MetricName": "Temperature",
+    "UnitName": "°C"
+  },
+  {
+    "SensorId": 73,
+    "SerialCode": "1048818",
+    "Name": "Lobby",
+    "LastMeasureDate": null,
+    "LastMeasureValue": null,
+    "MetricName": null,
+    "UnitName": null
+  },
+  {
+    "SensorId": 97,
+    "SerialCode": "4194752",
+    "Name": "Meeting room",
+    "LastMeasureDate": "2019-09-06 10:39:26",
+    "LastMeasureValue": 101680,
+    "MetricName": "Atmospheric Pressure",
+    "UnitName": "Pa"
+  },
+  {
+    "SensorId": 97,
+    "SerialCode": "4194752",
+    "Name": "Meeting room",
+    "LastMeasureDate": "2019-09-06 10:39:26",
+    "LastMeasureValue": 659,
+    "MetricName": "CO₂",
+    "UnitName": "ppm"
+  },
+  {
+    "SensorId": 97,
+    "SerialCode": "4194752",
+    "Name": "Meeting room",
+    "LastMeasureDate": "2019-09-06 10:39:26",
+    "LastMeasureValue": 41,
+    "MetricName": "Humidity",
+    "UnitName": "%"
+  },
+  {
+    "SensorId": 97,
+    "SerialCode": "4194752",
+    "Name": "Meeting room",
+    "LastMeasureDate": "2019-09-06 10:39:26",
+    "LastMeasureValue": 25.45,
+    "MetricName": "Temperature",
+    "UnitName": "°C"
+  }
+]
