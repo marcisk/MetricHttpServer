@@ -32,7 +32,7 @@ namespace MetricHttpServer
         private static void ProcessFirstOrNextRequest()
         {
             // Start to get connection context
-            var asyncResult = httpListener.BeginGetContext(OnGetContext, httpListener);
+            httpListener.BeginGetContext(OnGetContext, httpListener);
         }
 
         /// <summary>
